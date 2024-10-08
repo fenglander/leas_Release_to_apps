@@ -12,8 +12,8 @@
         
     """,
 
-    'author': "Leas",
-    'website': "http://www.leas.life",
+    'author': "leas",
+    'website': "https://www.leasnow.com",
 
     # for the full list
     'category': 'MES',
