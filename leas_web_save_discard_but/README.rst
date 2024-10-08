@@ -27,4 +27,4 @@ If you are the first to discover the issue, please help us resolve it by providi
 Contributors & Maintainers
 ===========
 
-*  Fung
+*  Fung<32664699@qq.com>
